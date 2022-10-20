@@ -1,1 +1,1 @@
-- 🖥️ Currenly working on a ~**neat game with pixel simulation**~ (~i mean it's a secret~ (oops))
+- 🖥️ Currenly writting a game in [Odin](https://odin-lang.org/) using [Raylib](https://www.raylib.com/)
