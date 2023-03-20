@@ -1,1 +1,3 @@
-- 🖥️ Currenly writting a game in [Odin](https://odin-lang.org/) using [Raylib](https://www.raylib.com/)
+- 🖥️ I mostly write in [Odin](https://odin-lang.org/)
+- 🕹️ I'm making an RTS game with [Raylib](https://raylib.com)
+- 💀 And an immediate-mode gui library
