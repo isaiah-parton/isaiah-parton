@@ -3,4 +3,4 @@
 # My projects
   - 🕹️ A cool game made with [Raylib](https://raylib.com)
   - 💀 An immediate-mode gui library for Odin
-  - 🏪 And a fast, minimal, but powerful point-of-sale terminal for small businesses (which uses said gui library)
+  - 🏪 A glorified multiplayer calculator for small business point of sale and inventory management (which uses said gui library)
