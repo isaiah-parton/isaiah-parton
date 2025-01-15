@@ -1,1 +1,1 @@
-Self-taught programmer.  I like UX design and databases.  I don't like overcomplication.
+Self-taught programmer.  I like UX design and node graphs.  I don't like overcomplication.
